@@ -6,7 +6,7 @@ void setup() {
 void loop() {
   int adc0 = analogRead(ADC0_pin);
   int adc5 = analogRead(ADC5_pin);
-  Serial.print("adc1:");
+  Serial.print("adc0:");
   Serial.print(adc0);
   Serial.print(",");
   Serial.print("adc5:");
