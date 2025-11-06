@@ -27,5 +27,4 @@ void loop() {
     digitalWrite(RY2_pin, RY2_State);
     delay(250);
   }
-
 }

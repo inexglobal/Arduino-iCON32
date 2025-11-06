@@ -21,6 +21,4 @@ void loop() {
   Serial.println(String(i)+"=>0");
   delay(500);
  }
-
-
 }
